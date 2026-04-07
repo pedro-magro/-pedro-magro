@@ -1,4 +1,4 @@
-#🐧 Pedro Magro
+*🐧 Pedro Magro*
 
 Estudante de **Sistemas de Informação** no Centro Universitário Senac. Atualmente, foco meus estudos no desenvolvimento **Backend com Java/Spring Boot** e na exploração prática de **Cibersegurança**.
 
@@ -33,7 +33,8 @@ Mantenho um ambiente de experimentação focado em redes e segurança defensiva:
 
 ### 📊 GitHub Stats
 
-![Pedro's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=pedro-magro&theme=dracula)
+![Pedro's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=pedro-magro&show_icons=true&theme=tokyo-night)
+
 
 
 ---
